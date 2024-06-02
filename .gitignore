@@ -486,3 +486,5 @@ APIVersion7/appsettings.json
 .editorconfig
 client/ssl/localhost-key.pem
 client/ssl/localhost.pem
+APIVersion7/datingapp.db-shm
+APIVersion7/datingapp.db-wal
