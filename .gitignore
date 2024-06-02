@@ -484,3 +484,5 @@ $RECYCLE.BIN/
 *.swp
 APIVersion7/appsettings.json
 .editorconfig
+client/ssl/localhost-key.pem
+client/ssl/localhost.pem
